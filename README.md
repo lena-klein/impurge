@@ -1,4 +1,4 @@
-**Impurge** is a GTK3 utility designed to make it easy to rapidly sort images and other files by mapping destinations to keys.
+**Impurge** is a GTK3 app designed to make it easy to rapidly sort images and other files by mapping destinations to keys.
 
 - Work sessions (folders and keys) can be saved to a file for later.
 - Click "Session" in the top-left corner, then "Edit" to edit the source folder and preferences.

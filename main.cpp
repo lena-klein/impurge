@@ -2,20 +2,15 @@
 #include <gtk/gtk.h>
 #include <cstdint>
 #include <cstdio>
-#include <nlohmann/json.hpp>
 #include <string>
 #include <list>
 #include <cstring>
 #include <fstream>
-#include <time.h>
-#include <cmath>
 #include <sys/stat.h>
-#include <chrono>
 #include <ctime>
 #include <sstream>
 #include <filesystem>
 #include <stdio.h>
-#include "m_includes/miniz/miniz.c"
 
 int IMP_VERSION = 1;
 
